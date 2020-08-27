@@ -1,0 +1,22 @@
+O jogo 2048 é muito popular como um passatempo de lógica que pode ser jogado em 
+celulares ou até mesmo na internet. Uma boa descrição deste jogo pode ser 
+encontrado na wikipedia [1].
+
+[1]: https://pt.wikipedia.org/wiki/2048_(jogo_eletr%C3%B4nico)
+
+Escreva um programa em C que permita você jogar o 2048 com sua própria 
+implementação!
+
+Requisitos obrigatórios:
+
+1. Compile com as opções -ansi -Wall do gcc;
+2. Use a biblioteca ncurses para a apresentação gráfica do jogo;
+3. Use alocação estática para a matriz que representa o jogo;
+4. As dimensões da matriz é para o jogo clássico, isto é 4x4;
+5. Faça uma boa apresentação do código (legibilidade, indentação);
+6. Use bons nomes para as variáveis;
+7. Faça uso de constantes que facilitem a manutenção do código, bem como a 
+legibilidade;
+8. Use corretamente as variáveis locais e globais;
+9. Bons comentários no código são fundamentais, mas não exagere no número deles,
+ use com bom senso em situações pertinentes.
