@@ -7,5 +7,5 @@ This is an implementation of the 2048 game based on the description made on wiki
 You can compile the code using:
 
 ```
-gcc -ansi -Wall 2048.c -o 2048 -lncurses
+gcc -ansi -Wall 2048.c lib_2048.c -o 2048 -lncurses
 ```
